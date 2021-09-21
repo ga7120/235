@@ -1,0 +1,32 @@
+h1 { 
+    color:#FA6807;
+    font-family: sans-serif;
+    border-bottom: 1px solid blue;
+    }
+h2 {
+    color:#FA6807;
+    font-family: sans-serif;
+}
+main {
+    border: 1px solid black;
+    margin: 0 auto 0 auto;
+    width: 80%;
+    padding: 1 rem;
+}
+blockquote { 
+    background-color: lightgray;
+    padding: 1rem;
+    }
+p {
+    margin-left: 100px;
+}
+body {
+    background-color: #FDE5CE;
+}
+footer{
+    background-color: #5555AA;
+}
+img.side{
+    float: right;
+    margin: 0 12px;
+}

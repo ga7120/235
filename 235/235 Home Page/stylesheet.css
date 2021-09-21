@@ -1,0 +1,44 @@
+h1{
+    padding-left: 10px;
+    color: #264653;
+}
+
+html{
+    background-color: #E9C46A;
+}
+
+#image {
+    padding-left: 20px;
+}
+
+a:link {
+    color: #264653;
+}
+
+a:visited{
+    color: #E76F51;
+}
+
+a:hover {
+    color: #2A9D8F;
+}
+
+#description {
+    background-color: #F4A261;
+    padding: 10px;
+    height: 100px;
+    width: 600px;
+    border: 10px solid #2A9D8F;
+    margin-left: 100px;
+}
+
+#Links {
+    background-color: #F4A261;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    height: 100px;
+    width: 500px;
+    border: 10px solid #2A9D8F;
+    margin-left: 100px;
+}    
